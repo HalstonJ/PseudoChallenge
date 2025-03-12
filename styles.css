@@ -170,13 +170,11 @@ h2 {
 }
 .galileo {
     display: flex; 
-            
-            
-            margin-top: 20px; /* Space between h2 and galileo */
-            padding: 20px;
-            width: 100%;
-            position: absolute;
-            top: 95%; /* Adjust to place it below h2 */
+    margin-top: 20px; 
+    padding: 20px;
+    width: 100%;
+    position: absolute;
+    top: 95%; 
             
 }
 
